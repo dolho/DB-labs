@@ -1,2 +1,2 @@
 Лабораторна робота № 2
-![alt text](dbpicimg.png) 
+![alt text](/dbpicimg.png) 
